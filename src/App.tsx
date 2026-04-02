@@ -240,7 +240,7 @@ export default function App() {
       {/* Footer */}
       <footer className="py-12 border-t border-white/5 text-center text-gray-500 text-sm uppercase tracking-widest">
         <p>© {new Date().getFullYear()} NICO HARO • ALL RIGHTS RESERVED</p>
-        <p className="mt-2 text-[10px]">Mizzou Business • MMA Fighter • QuikTrip Professional</p>
+        <p className="mt-2 text-[10px]">Mizzou Business • MMA Fighter • Professional</p>
       </footer>
     </div>
   );
