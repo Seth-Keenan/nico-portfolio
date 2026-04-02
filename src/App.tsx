@@ -221,7 +221,7 @@ export default function App() {
             </p>
             
             <div className="flex flex-wrap justify-center gap-6">
-              <a href="mailto:contact@nicoharo.com" className="btn-primary">
+              <a href="mailto:haro.nicholas1@gmail.com" className="btn-primary">
                 <Mail size={20} /> Email Me
               </a>
               <div className="flex gap-4">
