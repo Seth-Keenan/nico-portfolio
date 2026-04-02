@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32">
+  <rect width="100" height="100" rx="10" fill="#1a1a1a"/>
+
+  <!-- Use a group centered in the box, scaled to fit -->
+  <g transform="translate(47, 50)">
+    <!-- N in white, H in red, italic bold, centered as a unit -->
+    <text
+      text-anchor="middle"
+      y="22"
+      font-family="'Arial Black', 'Franklin Gothic Heavy', Impact, sans-serif"
+      font-size="58"
+      font-weight="900"
+      font-style="italic"
+      textLength="88"
+      lengthAdjust="spacingAndGlyphs"
+    >
+      <tspan fill="#FFFFFF">N</tspan><tspan fill="#CC1212">H</tspan>
+    </text>
+  </g>
+</svg>
