@@ -127,7 +127,7 @@ export default function App() {
           <div className="relative">
             <div className="absolute -inset-4 bg-brand-red/20 blur-3xl rounded-full" />
             <img 
-              src="https://images.unsplash.com/photo-1552072047-399363238d71?q=80&w=800&auto=format&fit=crop" 
+              src="/nico.jpg" 
               alt="MMA Focus" 
               className="relative rounded-2xl grayscale hover:grayscale-0 transition-all duration-700 shadow-2xl"
               referrerPolicy="no-referrer"
