@@ -225,7 +225,7 @@ export default function App() {
                 <Mail size={20} /> Email Me
               </a>
               <div className="flex gap-4">
-                <a href="#" className="p-4 bg-white/5 hover:bg-white/10 rounded-full transition-colors">
+                <a href="https://www.instagram.com/_nico_haro_/" className="p-4 bg-white/5 hover:bg-white/10 rounded-full transition-colors">
                   <Instagram size={24} />
                 </a>
                 <a href="#" className="p-4 bg-white/5 hover:bg-white/10 rounded-full transition-colors">
