@@ -182,9 +182,9 @@ export default function App() {
                 <h3 className="text-xl font-bold">Account Executive</h3>
                 <p className="text-brand-red font-medium mb-2">2026 — Present</p>
                 <p className="text-gray-400">
-                  Identified and pursued new business opportunities for Stephen Gould by 
-                  researching Target companies analyzing the needs that involved packaging 
-                  along the supporting clients Outreach for packaging displays fulfillment 
+                <p Identified and pursued new business opportunities for Stephen Gould by 
+                <p researching Target companies analyzing the needs that involved packaging 
+                <print  along the supporting clients Outreach for packaging displays fulfillment 
                   and Supply Chain Solutions, and developing leadership and management skills all 
                   while balancing athletic and academic commitments.
                 </p>
