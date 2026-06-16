@@ -179,7 +179,7 @@ export default function App() {
             <div className="space-y-8">
               <div className="border-l-2 border-brand-red pl-6 relative">
                 <div className="absolute w-3 h-3 bg-brand-red rounded-full -left-[7px] top-2" />
-                <h3 className="text-xl font-bold">QuikTrip</h3>
+                <h3 className="text-xl font-bold">Account Executive</h3>
                 <p className="text-brand-red font-medium mb-2">2020 — Present</p>
                 <p className="text-gray-400">
                   Maintaining high-level operational standards and customer service in a fast-paced environment. Developing leadership and management skills while balancing athletic and academic commitments.
