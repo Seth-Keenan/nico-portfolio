@@ -101,7 +101,7 @@ export default function App() {
               Based in Missouri, I balance the discipline of professional mixed martial arts with the strategic mindset of a business major at the University of Missouri. 
             </p>
             <p className="text-gray-400 text-lg leading-relaxed mb-8">
-              Since 2020, I've maintained a professional career at QuikTrip, proving that success is built on consistency, whether it's in the cage, the classroom, or the workplace. I am currently building my brand as a fighter, seeking to bridge the gap between athletic excellence and business savvy.
+              Since 2026, I've maintained a professional career as an Account executive, proving that success is built on consistency, whether it's in the cage, the classroom, or the workplace. I am currently building my brand as a fighter, seeking to bridge the gap between athletic excellence and business savvy.
             </p>
             <div className="grid grid-cols-2 gap-6">
               <div className="flex items-center gap-3">
@@ -180,7 +180,7 @@ export default function App() {
               <div className="border-l-2 border-brand-red pl-6 relative">
                 <div className="absolute w-3 h-3 bg-brand-red rounded-full -left-[7px] top-2" />
                 <h3 className="text-xl font-bold">Account Executive</h3>
-                <p className="text-brand-red font-medium mb-2">2020 — Present</p>
+                <p className="text-brand-red font-medium mb-2">2026 — Present</p>
                 <p className="text-gray-400">
                   Maintaining high-level operational standards and customer service in a fast-paced environment. Developing leadership and management skills while balancing athletic and academic commitments.
                 </p>
@@ -197,7 +197,7 @@ export default function App() {
               <div className="border-l-2 border-white/20 pl-6 relative">
                 <div className="absolute w-3 h-3 bg-white/20 rounded-full -left-[7px] top-2" />
                 <h3 className="text-xl font-bold">University of Missouri</h3>
-                <p className="text-brand-red font-medium mb-2">Business Major</p>
+                <p className="text-brand-red font-medium mb-2">Business </p>
                 <p className="text-gray-400">
                   Focusing on business strategy, marketing, and brand management. Applying classroom concepts to build the "Nico Haro" fighter brand.
                 </p>
