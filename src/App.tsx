@@ -182,7 +182,8 @@ export default function App() {
                 <h3 className="text-xl font-bold">Account Executive</h3>
                 <p className="text-brand-red font-medium mb-2">2026 — Present</p>
                 <p className="text-gray-400">
-                  Maintaining high-level operational standards and customer service in a fast-paced environment. Developing leadership and management skills while balancing athletic and academic commitments.
+                  Identified and pursued new business opportunities for Stephen Gould by researching Target companies analyzing the needs that involved packaging along the supporting clients Outreach for packaging displays fulfillment and Supply Chain Solutions
+                  . Developing leadership and management skills while balancing athletic and academic commitments.
                 </p>
               </div>
             </div>
@@ -199,7 +200,7 @@ export default function App() {
                 <h3 className="text-xl font-bold">University of Missouri</h3>
                 <p className="text-brand-red font-medium mb-2">Business </p>
                 <p className="text-gray-400">
-                  Focusing on business strategy, marketing, and brand management. Applying classroom concepts to build the "Nico Haro" fighter brand.
+                  Focusing on business strategy, marketing, and brand management. Applying classroom concepts to build the fighter brand known as "Nico Haro"
                 </p>
               </div>
             </div>
@@ -228,8 +229,7 @@ export default function App() {
                 <a href="https://www.instagram.com/_nico_haro_/" className="p-4 bg-white/5 hover:bg-white/10 rounded-full transition-colors">
                   <Instagram size={24} />
                 </a>
-                <a href="#" className="p-4 bg-white/5 hover:bg-white/10 rounded-full transition-colors">
-                  <Twitter size={24} />
+                
                 </a>
               </div>
             </div>
