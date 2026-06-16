@@ -184,7 +184,7 @@ export default function App() {
                 <p className="text-gray-400">
                 <p Identified and pursued new business opportunities for Stephen Gould by 
                 <p researching Target companies analyzing the needs that involved packaging 
-                <print  along the supporting clients Outreach for packaging displays fulfillment 
+                <  along the supporting clients Outreach for packaging displays fulfillment 
                   and Supply Chain Solutions, and developing leadership and management skills all 
                   while balancing athletic and academic commitments.
                 </p>
