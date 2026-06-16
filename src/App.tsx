@@ -70,7 +70,7 @@ export default function App() {
               NICO <span className="text-brand-red">HARO</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-400 font-medium uppercase tracking-[0.3em] mb-8">
-              MMA Fighter • Business Major • Professional
+              MMA Fighter • Business • Professional
             </p>
             <div className="flex flex-col md:flex-row gap-4 justify-center">
               <a href="#contact" className="btn-primary">
